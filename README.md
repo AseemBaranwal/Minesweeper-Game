@@ -4,7 +4,7 @@ This is a Minesweeper game implemented in C++ using the SFML library. The game i
 
 ## Demo
 
-[Watch the demo video here.](https://www.youtube.com/watch?v=dQw4w9WgXcQ) (Just kidding, there is no demo video available at this time.)
+[Watch the demo video here.](https://www.youtube.com/watch?v=8duhELd9ju0)
 
 ## Installation
 
