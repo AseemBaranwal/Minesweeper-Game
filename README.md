@@ -15,8 +15,10 @@ This is a Minesweeper game implemented in C++ using the SFML library. The game i
 ```
 g++ src/*.cpp -o minesweeper -lsfml-graphics -lsfml-window -lsfml-system
 ```
+
 OR
 You can also use the Makefile present in this project on your machine to compile and run the project. To do the following, open your terminal using (Ctrl + Alt + T) and type following command in project directory and hit enter.
+
 ```
 make clean
 make
@@ -27,6 +29,44 @@ make
 ```
 ./minesweeper
 ```
+
+## Screenshots
+
+<img
+  src="./files/screenshots/WelcomeWindow.png"
+  alt="Welcome Window"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img
+  src="./files/screenshots/Board.png"
+  alt="Board"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img
+  src="./files/screenshots/Debug Mode On.png"
+  alt="Debug Mode On"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img
+  src="./files/screenshots/Victory Condition.png"
+  alt="Victory Condition"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img
+  src="./files/screenshots/Lose Condition.png"
+  alt="Lose Condition"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img
+  src="./files/screenshots/Paused Game.png"
+  alt="Paused Game"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img
+  src="./files/screenshots/Win.png"
+  alt="Win and Leaderboard"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 ## Files
 
